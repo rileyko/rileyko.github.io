@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "woolimko"
+    shortname            : "rileyko-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,6 +107,7 @@ author:
   bio              : "I am a **Data Specialist**."
   location         : "South Korea, Seoul"
 #   email            : "kowlkh@gmail.com"
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frileyko.github.io&count_bg=%235782C0&title_bg=%23555555&icon=verizon.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
